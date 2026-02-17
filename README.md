@@ -11,7 +11,7 @@
   <a href="https://github.com/GuitaristForEver">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-GuitaristForEver-181717?logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yuval-gabay/">
+  <a href="https://www.linkedin.com/in/yuval-gabay-68963253/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-View_Profile-0A66C2?logo=linkedin&logoColor=white" />
   </a>
 </p>
